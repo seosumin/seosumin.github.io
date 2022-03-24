@@ -9216,7 +9216,7 @@ textarea.form-control {
 .user-img {
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: right center; }
+  background-position: center; }
 
 .image-popup {
   cursor: -webkit-zoom-in;
